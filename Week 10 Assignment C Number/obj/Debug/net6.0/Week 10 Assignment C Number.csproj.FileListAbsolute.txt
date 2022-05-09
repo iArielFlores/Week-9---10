@@ -1,0 +1,15 @@
+C:\Users\Ariel Flores\source\repos\Week 10 Assignment C Number\bin\Debug\net6.0\Week 10 Assignment C Number.exe
+C:\Users\Ariel Flores\source\repos\Week 10 Assignment C Number\bin\Debug\net6.0\Week 10 Assignment C Number.deps.json
+C:\Users\Ariel Flores\source\repos\Week 10 Assignment C Number\bin\Debug\net6.0\Week 10 Assignment C Number.runtimeconfig.json
+C:\Users\Ariel Flores\source\repos\Week 10 Assignment C Number\bin\Debug\net6.0\Week 10 Assignment C Number.dll
+C:\Users\Ariel Flores\source\repos\Week 10 Assignment C Number\bin\Debug\net6.0\ref\Week 10 Assignment C Number.dll
+C:\Users\Ariel Flores\source\repos\Week 10 Assignment C Number\bin\Debug\net6.0\Week 10 Assignment C Number.pdb
+C:\Users\Ariel Flores\source\repos\Week 10 Assignment C Number\obj\Debug\net6.0\Week 10 Assignment C Number.csproj.AssemblyReference.cache
+C:\Users\Ariel Flores\source\repos\Week 10 Assignment C Number\obj\Debug\net6.0\Week 10 Assignment C Number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ariel Flores\source\repos\Week 10 Assignment C Number\obj\Debug\net6.0\Week 10 Assignment C Number.AssemblyInfoInputs.cache
+C:\Users\Ariel Flores\source\repos\Week 10 Assignment C Number\obj\Debug\net6.0\Week 10 Assignment C Number.AssemblyInfo.cs
+C:\Users\Ariel Flores\source\repos\Week 10 Assignment C Number\obj\Debug\net6.0\Week 10 Assignment C Number.csproj.CoreCompileInputs.cache
+C:\Users\Ariel Flores\source\repos\Week 10 Assignment C Number\obj\Debug\net6.0\Week 10 Assignment C Number.dll
+C:\Users\Ariel Flores\source\repos\Week 10 Assignment C Number\obj\Debug\net6.0\ref\Week 10 Assignment C Number.dll
+C:\Users\Ariel Flores\source\repos\Week 10 Assignment C Number\obj\Debug\net6.0\Week 10 Assignment C Number.pdb
+C:\Users\Ariel Flores\source\repos\Week 10 Assignment C Number\obj\Debug\net6.0\Week 10 Assignment C Number.genruntimeconfig.cache
